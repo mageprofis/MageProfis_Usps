@@ -6,9 +6,9 @@ easily add and remove usps.
 ###Usage:
 
 layout files
-<pre>
+
 '<block type="usps/usps" name="your.name" template="your.template" />'
-</pre>
+
 
 templates
 <pre>
