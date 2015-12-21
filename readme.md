@@ -6,14 +6,14 @@ easily add and remove usps.
 ###Usage:
 
 layout files
-
-'<block type="usps/usps" name="your.name" template="your.template" />'
-
+```
+<block type="usps/usps" name="your.name" template="your.template" />'
+```
 
 templates
-<pre>
+```
 foreach($this->getUsps() as $usp) 
 {
     echo $usp ....
 }
-</pre>
+```
