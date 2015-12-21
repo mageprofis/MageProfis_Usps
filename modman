@@ -1,0 +1,3 @@
+src/app/code/local/MageProfis/Usps						app/code/local/MageProfis/Usps
+src/app/etc/modules/MageProfis_Usps.xml                                         app/etc/modules/MageProfis_Usps.xml
+src/app/locale/de_DE/MageProfis_Usps.csv                                        app/locale/de_DE/MageProfis_Usps.csv
